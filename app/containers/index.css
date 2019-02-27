@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+.bgView {
+  height: 100%;
+  background-color: red;
+}
+
+.progress {
+  height: 100%;
+  background-color: green;
+}
